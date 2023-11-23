@@ -1,0 +1,547 @@
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\DirectoriWeb.dll.config
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\DirectoriWeb.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\DirectoriWeb.pdb
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\csc.exe
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\csc.exe.config
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\csc.rsp
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\csi.exe
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\csi.exe.config
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\csi.rsp
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Console.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\vbc.exe
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\vbc.exe.config
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\vbc.rsp
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Antlr3.Runtime.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Newtonsoft.Json.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Web.Optimization.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\WebGrease.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Web.Optimization.xml
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Newtonsoft.Json.xml
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\obj\Debug\DirectoriWeb.csproj.AssemblyReference.cache
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\obj\Debug\DirectoriWeb.csproj.CoreCompileInputs.cache
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\obj\Debug\DirectoriWeb.csproj.CopyComplete
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\obj\Debug\DirectoriWeb.dll
+C:\Users\Gamarinl25\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\obj\Debug\DirectoriWeb.pdb
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\DirectoriWeb.dll.config
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\DirectoriWeb.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\DirectoriWeb.pdb
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\csc.exe
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\csc.exe.config
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\csc.rsp
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\csi.exe
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\csi.exe.config
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\csi.rsp
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.AppContext.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Console.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\vbc.exe
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\vbc.exe.config
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\vbc.rsp
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Antlr3.Runtime.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\BouncyCastle.Cryptography.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Google.Protobuf.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\K4os.Compression.LZ4.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\K4os.Hash.xxHash.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\MySql.Data.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\MySqlConnector.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Newtonsoft.Json.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Buffers.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.IO.Pipelines.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Memory.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Net.Http.WinHttpHandler.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Numerics.Vectors.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Text.Encodings.Web.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Text.Json.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.ValueTuple.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Web.Optimization.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\VaultSharp.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\WebGrease.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\ZstdSharp.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\BouncyCastle.Cryptography.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Google.Protobuf.pdb
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Google.Protobuf.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\K4os.Compression.LZ4.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\K4os.Hash.xxHash.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\MySql.Data.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\MySqlConnector.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Buffers.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.IO.Pipelines.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Memory.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Net.Http.WinHttpHandler.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Numerics.Vectors.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Text.Encodings.Web.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Text.Json.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.ValueTuple.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\System.Web.Optimization.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Newtonsoft.Json.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\VaultSharp.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Antlr3.Runtime.pdb
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\obj\Debug\DirectoriWeb.csproj.AssemblyReference.cache
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\obj\Debug\DirectoriWeb.csproj.CoreCompileInputs.cache
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\obj\Debug\DirectoriWeb.csproj.CopyComplete
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\obj\Debug\DirectoriWeb.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb\DirectoriWeb\obj\Debug\DirectoriWeb.pdb
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\DirectoriWeb.dll.config
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\DirectoriWeb.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\DirectoriWeb.pdb
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\csc.exe
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\csc.exe.config
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\csc.rsp
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\csi.exe
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\csi.exe.config
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\csi.rsp
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.AppContext.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.Console.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\vbc.exe
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\vbc.exe.config
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\vbc.rsp
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\Antlr3.Runtime.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\BouncyCastle.Cryptography.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\Google.Protobuf.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\K4os.Compression.LZ4.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\K4os.Hash.xxHash.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\MySql.Data.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\MySqlConnector.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\Newtonsoft.Json.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Buffers.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.IO.Pipelines.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Memory.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Net.Http.WinHttpHandler.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Numerics.Vectors.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Text.Encodings.Web.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Text.Json.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.ValueTuple.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Web.Optimization.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\VaultSharp.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\WebGrease.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\ZstdSharp.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\BouncyCastle.Cryptography.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\Google.Protobuf.pdb
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\Google.Protobuf.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\K4os.Compression.LZ4.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\K4os.Hash.xxHash.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\MySql.Data.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\MySqlConnector.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Buffers.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.IO.Pipelines.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Memory.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Net.Http.WinHttpHandler.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Numerics.Vectors.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Text.Encodings.Web.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Text.Json.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.ValueTuple.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\System.Web.Optimization.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\Newtonsoft.Json.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\VaultSharp.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\Antlr3.Runtime.pdb
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\obj\Debug\DirectoriWeb.csproj.AssemblyReference.cache
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\obj\Debug\DirectoriWeb.csproj.CoreCompileInputs.cache
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\obj\Debug\DirectoriWeb.csproj.CopyComplete
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\obj\Debug\DirectoriWeb.dll
+C:\Users\GEALM\Documents\Proyectos C#\DirectoriWeb - copia\DirectoriWeb\obj\Debug\DirectoriWeb.pdb
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\DirectoriWeb.dll.config
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\DirectoriWeb.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\DirectoriWeb.pdb
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\csc.exe
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\csc.exe.config
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\csc.rsp
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\csi.exe
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\csi.exe.config
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\csi.rsp
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.AppContext.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Console.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\vbc.exe
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\vbc.exe.config
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\vbc.rsp
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\Antlr3.Runtime.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\BouncyCastle.Cryptography.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\Google.Protobuf.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\K4os.Compression.LZ4.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\K4os.Hash.xxHash.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\MySql.Data.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\MySqlConnector.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\Newtonsoft.Json.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Buffers.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.IO.Pipelines.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Memory.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Net.Http.WinHttpHandler.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Numerics.Vectors.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Text.Encodings.Web.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Text.Json.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.ValueTuple.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Web.Optimization.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\VaultSharp.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\WebGrease.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\ZstdSharp.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\BouncyCastle.Cryptography.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\Google.Protobuf.pdb
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\Google.Protobuf.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\K4os.Compression.LZ4.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\K4os.Hash.xxHash.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\MySql.Data.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\MySqlConnector.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Buffers.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.IO.Pipelines.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Memory.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Net.Http.WinHttpHandler.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Numerics.Vectors.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Text.Encodings.Web.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Text.Json.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.ValueTuple.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\System.Web.Optimization.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\Newtonsoft.Json.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\VaultSharp.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\Antlr3.Runtime.pdb
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\obj\Debug\DirectoriWeb.csproj.AssemblyReference.cache
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\obj\Debug\DirectoriWeb.csproj.CoreCompileInputs.cache
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\obj\Debug\DirectoriWeb.csproj.CopyComplete
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\obj\Debug\DirectoriWeb.dll
+C:\Users\GEALM\Documents\Gamarinl\Proyectos Visual Studio 2022\DirectoriWeb\DirectoriWeb\obj\Debug\DirectoriWeb.pdb
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\DirectoriWeb.dll.config
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\DirectoriWeb.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\DirectoriWeb.pdb
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\csc.exe
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\csc.exe.config
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\csc.rsp
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\csi.exe
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\csi.exe.config
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\csi.rsp
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.AppContext.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Console.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\vbc.exe
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\vbc.exe.config
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\vbc.rsp
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\Antlr3.Runtime.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\BouncyCastle.Cryptography.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\Google.Protobuf.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\K4os.Compression.LZ4.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\K4os.Hash.xxHash.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\MySql.Data.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\MySqlConnector.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\Newtonsoft.Json.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Buffers.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.IO.Pipelines.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Memory.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Net.Http.WinHttpHandler.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Numerics.Vectors.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Text.Encodings.Web.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Text.Json.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.ValueTuple.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Web.Optimization.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\VaultSharp.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\WebGrease.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\ZstdSharp.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\BouncyCastle.Cryptography.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\Google.Protobuf.pdb
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\Google.Protobuf.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\K4os.Compression.LZ4.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\K4os.Hash.xxHash.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\MySql.Data.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\MySqlConnector.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Buffers.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.IO.Pipelines.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Memory.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Net.Http.WinHttpHandler.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Numerics.Vectors.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Text.Encodings.Web.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Text.Json.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.ValueTuple.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\System.Web.Optimization.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\Newtonsoft.Json.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\VaultSharp.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\Antlr3.Runtime.pdb
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\obj\Debug\DirectoriWeb.csproj.AssemblyReference.cache
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\obj\Debug\DirectoriWeb.csproj.CoreCompileInputs.cache
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\obj\Debug\DirectoriWeb.csproj.CopyComplete
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\obj\Debug\DirectoriWeb.dll
+C:\Users\GEALM\Desktop\Nueva carpeta\DirectoriWeb\DirectoriWeb\obj\Debug\DirectoriWeb.pdb
